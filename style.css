@@ -1,0 +1,107 @@
+ /* geral */
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ 
+ body {
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+ }
+ main {
+  margin: 88px auto 65px;
+  width: 1120px;
+
+ }
+ main img {
+  border-radius: 28px;
+  margin-bottom: 24px;
+ }
+
+
+ h2 {
+  color: #E1624F;
+  font-size: 22px;
+ }
+
+ h1 {
+  font-size: 49px;
+  color: #1B1B1B;
+ }
+
+ /* classes */
+ .travel {
+  margin-bottom: 8px;
+ }
+
+ .busanOne {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+ }
+
+ .destiny {
+  margin: 64px auto 64px;
+ }
+
+ .destiny .atration {
+  color: #333333;
+ }
+
+ .knowBusan{
+  margin-bottom: 48px;
+ }
+
+/* lista */
+
+.goodFor {
+  color: #333333;
+  font-weight: bold;
+  margin-bottom: 48px;
+
+}
+
+ .list {
+  font-size: 38px;
+  font-weight: bold;
+ }
+
+ .goodFor li {
+  padding-left: 10px;
+  list-style-position: inside; 
+  margin-left: -10px; 
+ }
+
+ .casal, .family, .money,.history {
+  list-style-type: disc;
+ }
+
+ .history {
+  color: #0C51A7;
+  
+ }
+
+.casal {
+  color: #591B98;
+}
+.family {
+  color: #E5245E;
+}
+.money {
+  color: #E95E10;
+}
+.line {
+  border: #D9D9D9 solid 1px ;
+
+}
+.endPage {
+  text-align: center;
+  margin:40px auto 65px
+}
+
+footer {
+
+  text-align: center;
+  margin-bottom: 48px;
+}
